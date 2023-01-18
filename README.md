@@ -2,7 +2,7 @@ Code for the paper [Efficient Human-in-the-loop System for Guiding DNNs Attentio
 
 ## Start
 
-- Prepare the [User Interface](https://github.com/ultratykis/User-Interface-For-Guiding-DNNs-Attention.git).
+- Prepare the [User Interface](https://github.com/shasph/User-Interface-For-Guiding-DNNs-Attention).
 - Prepare the dataset with the following structure.
   ```
   dataset/
